@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi, How are you? I'm Lucas Andrade 👋
 
-<!--
-**LucasAndrade155/LucasAndrade155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⏳ Futuro Cientista de dados
+<br>💻 Estudando java POO e python para machine learning <br/>
+---------------------------------------------------------------
 
-Here are some ideas to get you started:
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAndrade155&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAndrade155&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+--------------------------------------------------
+
+
+### Tecnologias em estudo e que uso no dia
+
+<div style = "display:inline_block"><br/>
+<img alt="java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg " />
+      <img alt="python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg " />
+
+</div>
+
+---------------------------------------------------------------------
+
+### Contato
+
+[![Contato](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/lucas-andrade-552298254/)
+
+
